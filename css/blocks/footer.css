@@ -1,0 +1,27 @@
+.footer {
+    background: #245852;
+}
+
+.footer-content {
+    padding-top: 95px;
+}
+.footer-heading {
+    margin-bottom: 60px;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 55px;
+    color: #FFFFFF;
+}
+.footer-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    padding-bottom: 144px;
+}
+.footer-nav-item {
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
